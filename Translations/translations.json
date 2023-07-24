@@ -1,0 +1,879 @@
+{
+    "albanian": [
+        {
+            "translator_name":"Efendi Nahi",
+            "translation":"Hasan Efendi Nahi",
+            "translator_page":"",
+            "name":"sq.nahi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Feti Mehdiu",
+            "translation":"Feti Mehdiu",
+            "translator_page":"",
+            "name": "sq.mehdiu",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Sherif Ahmeti",
+            "translation":"Sherif Ahmeti",
+            "translator_page":"",
+            "name": "",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "amazigh": [
+        {
+            "translator_name":"At Mensur",
+            "translation":"Ramdane At Mansour",
+            "translator_page":"http://www.africultures.com/php/index.php?nav=personne&no=6383",
+            "name":"ber.mensur",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "amharic": [
+        {
+            "translator_name":"ሳዲቅ & ሳኒ ሐቢብ",
+            "translation":"Muhammed Sadiq and Muhammed Sani Habib",
+            "translator_page":"http://en.wikipedia.org/wiki/Shekh_Muhammad_T%C4%81n%C4%AB",
+            "name":"am.sadiq",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "azerbaijani": [
+        {
+            "translator_name":"Məmmədəliyev & Bünyadov",
+            "translation":"Vasim Mammadaliyev and Ziya Bunyadov",
+            "translator_page":"http://az.wikipedia.org/wiki/Vasim_M%C9%99mm%C9%99d%C9%99liyev",
+            "name":"az.mammadaliyev",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Musayev",
+            "translation":"Alikhan Musayev",
+            "translator_page":"",
+            "name":"az.musayev",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "bengali": [
+        {
+            "translator_name":"জহুরুল হক",
+            "translation":"Zohurul Hoque",
+            "translator_page":"http://en.wikipedia.org/wiki/Zohurul_Hoque",
+            "name":"bn.hoque",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"মুহিউদ্দীন খান",
+            "translation":"Muhiuddin Khan",
+            "translator_page":"",
+            "name":"bn.bengali",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "bosnian": [
+        {
+            "translator_name":"Korkut",
+            "translation":"Besim Korkut",
+            "translator_page":"http://bosnjaci.net/dobri_bosnjani.php?id=93",
+            "name":"bs.korkut",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Mlivo",
+            "translation":"Mustafa Mlivo",
+            "translator_page":"",
+            "name":"bs.mlivo",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "bulgarian": [
+        {
+            "translator_name":"Теофанов",
+            "translation":"Tzvetan Theophanov",
+            "translator_page":"",
+            "name":"bg.theophanov",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "chinese": [
+        {
+            "translator_name":"Ma Jian",
+            "translation":"Ma Jian",
+            "translator_page":"",
+            "name":"zh.jian",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Ma Jian (Traditional)",
+            "translation":"Ma Jian",
+            "translator_page":"",
+            "name":"zh.majian",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "czech": [
+        {
+            "translator_name":"Hrbek",
+            "translation":"Preklad I. Hrbek",
+            "translator_page":"",
+            "name":"cs.hrbek",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Nykl",
+            "translation":"A. R. Nykl",
+            "translator_page":"",
+            "name":"cs.nykl",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "divehi": [
+        {
+            "translator_name":"ދިވެހި",
+            "translation":"Office of the President of Maldives",
+            "translator_page":"",
+            "name":"dv.divehi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "dutch": [
+        {
+            "translator_name":"Keyzer",
+            "translation":"Salomo Keyzer",
+            "translator_page":"",
+            "name":"nl.keyzer",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Leemhuis",
+            "translation":"Fred Leemhuis",
+            "translator_page":"",
+            "name":"nl.leemhuis",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Siregar",
+            "translation":"Sofian S. Siregar",
+            "translator_page":"",
+            "name":"nl.siregar",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "english": [
+        {
+            "translator_name":"Ahmed Ali",
+            "translation":"Ahmed Ali",
+            "translator_page":"http://en.wikipedia.org/wiki/Ahmed_Ali",
+            "name":"en.ahmedali",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Ahmed Raza Khan",
+            "translation":"Ahmed Raza Khan",
+            "translator_page":"http://en.wikipedia.org/wiki/Ahmed_Rida_Khan",
+            "name":"en.ahmedraza",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Arberry",
+            "translation":"A. J. Arberry",
+            "translator_page":"http://en.wikipedia.org/wiki/A._J._Arberry",
+            "name":"en.arberry",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Daryabadi",
+            "translation":"Abdul Majid Daryabadi",
+            "translator_page":"http://en.wikipedia.org/wiki/Abdul_Majid_Daryabadi",
+            "name":"en.daryabadi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Hilali & Khan",
+            "translation":"Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
+            "translator_page":"http://en.wikipedia.org/wiki/Hilali-Khan",
+            "name":"en.hilali",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Itani",
+            "translation":"Talal Itani",
+            "translator_page":"",
+            "name":"en.itani",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Maududi",
+            "translation":"Abul Ala Maududi",
+            "translator_page":"http://en.wikipedia.org/wiki/Maududi",
+            "name":"en.maududi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Mubarakpuri",
+            "translation":"Safi-ur-Rahman al-Mubarakpuri",
+            "translator_page":"http://en.wikipedia.org/wiki/Safiur_Rahman_Mubarakpuri",
+            "name":"en.mubarakpuri",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Pickthall",
+            "translation":"Mohammed Marmaduke William Pickthall",
+            "translator_page":"http://en.wikipedia.org/wiki/Marmaduke_Pickthall",
+            "name":"en.pickthall",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Qarai",
+            "translation":"Ali Quli Qarai",
+            "translator_page":"",
+            "name":"en.qarai",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Qaribullah & Darwish",
+            "translation":"Hasan al-Fatih Qaribullah and Ahmad Darwish",
+            "translator_page":"",
+            "name":"en.qaribullah",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Saheeh International",
+            "translation":"Saheeh International",
+            "translator_page":"http://www.saheehinternational.com/",
+            "name":"en.sahih",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Sarwar",
+            "translation":"Muhammad Sarwar",
+            "translator_page":"http://en.wikipedia.org/wiki/Muhammad_Shaykh_Sarwar",
+            "name":"en.sarwar",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Shakir",
+            "translation":"Mohammad Habib Shakir",
+            "translator_page":"http://en.wikipedia.org/wiki/M._H._Shakir",
+            "name":"en.shakir",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Transliteration",
+            "translation":"English Transliteration",
+            "translator_page":"",
+            "name":"en.transliteration",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Wahiduddin Khan",
+            "translation":"Wahiduddin Khan",
+            "translator_page":"http://en.wikipedia.org/wiki/Wahiduddin_Khan",
+            "name":"en.wahiduddin",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Yusuf Ali",
+            "translation":"Abdullah Yusuf Ali",
+            "translator_page":"http://en.wikipedia.org/wiki/Abdullah_Yusuf_Ali",
+            "name":"en.yusufali",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "french": [
+        {
+            "translator_name":"Hamidullah",
+            "translation":"Muhammad Hamidullah",
+            "translator_page":"http://en.wikipedia.org/wiki/Muhammad_Hamidullah",
+            "name":"fr.hamidullah",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "german": [
+        {
+            "translator_name":"Abu Rida",
+            "translation":"Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+            "translator_page":"",
+            "name":"de.aburida",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Bubenheim & Elyas",
+            "translation":"A. S. F. Bubenheim and N. Elyas",
+            "translator_page":"http://de.wikipedia.org/wiki/Nadeem_Elyas",
+            "name":"de.bubenheim",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Khoury",
+            "translation":"Adel Theodor Khoury",
+            "translator_page":"http://de.wikipedia.org/wiki/Amir_Zaidan",
+            "name":"de.khoury",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Zaidan",
+            "translation":"Amir Zaidan",
+            "translator_page":"",
+            "name":"de.zaidan",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "hausa": [
+        {
+            "translator_name":"Gumi",
+            "translation":"Abubakar Mahmoud Gumi",
+            "translator_page":"",
+            "name":"ha.gumi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "hindi": [
+        {
+            "translator_name":"फ़ारूक़ ख़ान & अहमद",
+            "translation":"Muhammad Farooq Khan and Muhammad Ahmed",
+            "translator_page":"",
+            "name":"hi.farooq",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"फ़ारूक़ ख़ान & नदवी",
+            "translation":"Suhel Farooq Khan and Saifur Rahman Nadwi",
+            "translator_page":"",
+            "name":"hi.hindi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "indonesian": [
+        {
+            "translator_name":"Bahasa Indonesia",
+            "translation":"Indonesian Ministry of Religious Affairs",
+            "translator_page":"",
+            "name":"id.indonesian",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Quraish Shihab",
+            "translation":"Muhammad Quraish Shihab et al.",
+            "translator_page":"http://id.wikipedia.org/wiki/Muhammad_Quraish_Shihab",
+            "name":"id.muntakhab",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Tafsir Jalalayn",
+            "translation":"alal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+            "translator_page":"http://en.wikipedia.org/wiki/Tafsir_al-Jalalayn",
+            "name":"id.jalalayn",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "italian": [
+        {
+            "translator_name":"Piccardo",
+            "translation":"Hamza Roberto Piccardo",
+            "translator_page":"http://en.wikipedia.org/wiki/Hamza_Roberto_Piccardo",
+            "name":"it.piccardo",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "japanese": [
+        {
+            "translator_name":"Japanese",
+            "translation":"Unknown",
+            "translator_page":"",
+            "name":"ja.japanese",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "korean": [
+        {
+            "translator_name":"Korean",
+            "translation":"Unknown",
+            "translator_page":"",
+            "name":"ko.korean",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "kurdish": [
+        {
+            "translator_name":"ته‌فسیری ئاسان",
+            "translation":"Burhan Muhammad-Amin",
+            "translator_page":"",
+            "name":"ku.asan",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "malay": [
+        {
+            "translator_name":"Basmeih",
+            "translation":"Abdullah Muhammad Basmeih",
+            "translator_page":"",
+            "name":"ms.basmeih",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "malayalam": [
+        {
+            "translator_name":"അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+            "translation":"Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+            "translator_page":"",
+            "name":"ml.abdulhameed",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"കാരകുന്ന് & എളയാവൂര്",
+            "translation":"Muhammad Karakunnu and Vanidas Elayavoor",
+            "translator_page":"http://en.wikipedia.org/wiki/Sheikh_Muhammad_Karakunnu",
+            "name":"ml.karakunnu",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "norwegian": [
+        {
+            "translator_name":"Einar Berg",
+            "translation":"Einar Berg",
+            "translator_page":"",
+            "name":"no.berg",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "poshto": [
+        {
+            "translator_name":"عبدالولي",
+            "translation":"Abdulwali Khan",
+            "translator_page":"",
+            "name":"ps.abdulwali",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "persian": [
+        {
+            "translator_name":"انصاریان",
+            "translation":"Hussain Ansarian",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86_%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C%D8%A7%D9%86",
+            "name":"fa.ansarian",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"آیتی",
+            "translation":"AbdolMohammad Ayati",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF_%D8%A2%DB%8C%D8%AA%DB%8C",
+            "name": "fa.ayati",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"بهرام‌پور",
+            "translation":"Abolfazl Bahrampour",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%E2%80%8C%D9%BE%D9%88%D8%B1",
+            "name": "fa.bahrampour",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"قرائتی",
+            "translation":"Mohsen Gharaati",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B3%D9%86_%D9%82%D8%B1%D8%A7%D8%A6%D8%AA%DB%8C",
+            "name":"fa.gharaati",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"الهی قمشه‌ای",
+            "translation":"Mahdi Elahi Ghomshei",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%D8%A7%D9%84%D9%87%DB%8C_%D9%82%D9%85%D8%B4%D9%87%E2%80%8C%D8%A7%DB%8C",
+            "name": "fa.ghomshei",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"خرمدل",
+            "translation":"Mostafa Khorramdel",
+            "translator_page":"http://rasekhoon.net/mashahir/Show-904328.aspx",
+            "name": "fa.khorramdel",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"خرمشاهی",
+            "translation":"Baha'oddin Khorramshahi",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D8%A8%D9%87%D8%A7%D8%A1%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D9%85%D8%B4%D8%A7%D9%87%DB%8C",
+            "name":"fa.khorramshahi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"صادقی تهرانی",
+            "translation":"Mohammad Sadeqi Tehrani",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D8%A7%D8%AF%D9%82%DB%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C",
+            "name": "fa.sadeqi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"صفوی",
+            "translation":"Sayyed Mohammad Reza Safavi",
+            "translator_page":"http://wikinoor.ir/%D8%B5%D9%81%D9%88%DB%8C%D8%8C_%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7",
+            "name": "fa.safavi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"فولادوند",
+            "translation":"Mohammad Mahdi Fooladvand",
+            "translator_page":"http://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D9%85%D9%87%D8%AF%DB%8C_%D9%81%D9%88%D9%84%D8%A7%D8%AF%D9%88%D9%86%D8%AF",
+            "name": "fa.fooladvand",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"مجتبوی",
+            "translation":"Sayyed Jalaloddin Mojtabavi",
+            "translator_page":"http://rasekhoon.net/mashahir/Show-118481.aspx",
+            "name": "fa.mojtabavi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"معزی",
+            "translation":"Mohammad Kazem Moezzi",
+            "translator_page":"",
+            "name": "fa.moezzi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"مکارم شیرازی",
+            "translation":"Naser Makarem Shirazi",
+            "translator_page":"http://en.wikipedia.org/wiki/Naser_Makarem_Shirazi",
+            "name": "fa.makarem",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],   
+    "polish": [
+        {
+            "translator_name":"Bielawskiego",
+            "translation":"Józefa Bielawskiego",
+            "translator_page":"",
+            "name":"pl.bielawskiego",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "portuguese": [
+        {
+            "translator_name":"El-Hayek",
+            "translation":"Samir El-Hayek ",
+            "translator_page":"",
+            "name":"pt.elhayek",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "romanian": [
+        {
+            "translator_name":"Grigore",
+            "translation":"George Grigore",
+            "translator_page":"",
+            "name":"ro.grigore",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "russian": [
+        {
+            "translator_name":"Абу Адель",
+            "translation":"Abu Adel",
+            "translator_page":"",
+            "name":"ru.abuadel",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Аль-Мунтахаб",
+            "translation":"Ministry of Awqaf, Egypt",
+            "translator_page":"",
+            "name": "ru.muntahab",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Калям Шариф",
+            "translation":"Muslim Religious Board of the Republiс of Tatarstan",
+            "translator_page":"http://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D1%83%D1%81%D1%83%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD",
+            "name": "ru.kalam",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Крачковский",
+            "translation":"Ignaty Yulianovich Krachkovsky",
+            "translator_page":"http://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%87%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D0%B8%D0%B9_%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+            "name":"ru.krachkovsky",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Кулиев",
+            "translation":"Elmir Kuliev",
+            "translator_page":"",
+            "name": "ru.kuliev",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Кулиев + ас-Саади",
+            "translation":"Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries)",
+            "translator_page":"",
+            "name": "ru.kuliev-alsaadi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Османов",
+            "translation":"Magomed-Nuri Osmanovich Osmanov",
+            "translator_page":"",
+            "name":"ru.osmanov",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Порохова",
+            "translation":"V. Porokhova",
+            "translator_page":"",
+            "name": "ru.porokhova",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Саблуков",
+            "translation":"Gordy Semyonovich Sablukov",
+            "translator_page":"",
+            "name": "ru.sablukov",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "sindhi": [
+        {
+            "translator_name":"امروٽي",
+            "translation":"Taj Mehmood Amroti",
+            "translator_page":"",
+            "name":"sd.amroti",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "somali": [
+        {
+            "translator_name":"Abduh",
+            "translation":"Mahmud Muhammad Abduh",
+            "translator_page":"",
+            "name":"so.abduh",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "spanish": [
+        {
+            "translator_name":"Bornez",
+            "translation":"Raúl González Bórnez",
+            "translator_page":"http://www.scribd.com/doc/72248854/Coran-en-castellano-Raul-Gonzalez-Bornez-DM",
+            "name":"es.bornez",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Cortes",
+            "translation":"Julio Cortes",
+            "translator_page":"",
+            "name":"es.cortes",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Garcia",
+            "translation":"Muhammad Isa García",
+            "translator_page":"http://themuslim500.com/profile/prof-muhammad-isa-garcia",
+            "name":"es.garcia",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "swahili": [
+        {
+            "translator_name":"Al-Barwani",
+            "translation":"Ali Muhsin Al-Barwani",
+            "translator_page":"",
+            "name":"sw.barwani",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "swedish": [
+        {
+            "translator_name":"Bernström",
+            "translation":"Knut Bernström",
+            "translator_page":"",
+            "name":"sv.bernstrom",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "tajik": [
+        {
+            "translator_name":"Оятӣ",
+            "translation":"AbdolMohammad Ayati",
+            "translator_page":"",
+            "name":"tg.ayati",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "tamil": [
+        {
+            "translator_name":"ஜான் டிரஸ்ட்",
+            "translation":"Jan Turst Foundation",
+            "translator_page":"",
+            "name":"ta.tamil",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "tatar": [
+        {
+            "translator_name":"Yakub Ibn Nugman",
+            "translation":"Yakub Ibn Nugman",
+            "translator_page":"",
+            "name":"tt.nugman",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "thaï": [
+        {
+            "translator_name":"ภาษาไทย",
+            "translation":"King Fahad Quran Complex",
+            "translator_page":"",
+            "name":"th.thai",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "turkish": [
+        {
+            "translator_name":"Abdulbakî Gölpınarlı",
+            "translation":"Abdulbaki Golpinarli",
+            "translator_page":"",
+            "name":"tr.golpinarli",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Alİ Bulaç",
+            "translation":"Alİ Bulaç",
+            "translator_page":"",
+            "name": "tr.bulac",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Çeviriyazı",
+            "translation":"Muhammet Abay",
+            "translator_page":"",
+            "name": "tr.transliteration",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Diyanet İşleri",
+            "translation":"Diyanet Isleri",
+            "translator_page":"",
+            "name":"tr.diyanet",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Diyanet Vakfı",
+            "translation":"Diyanet Vakfi",
+            "translator_page":"",
+            "name": "tr.vakfi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Edip Yüksel",
+            "translation":"Edip Yüksel",
+            "translator_page":"",
+            "name": "tr.yuksel",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Elmalılı Hamdi Yazır",
+            "translation":"Elmalili Hamdi Yazir",
+            "translator_page":"",
+            "name":"tr.yazir",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Öztürk",
+            "translation":"Yasar Nuri Ozturk",
+            "translator_page":"http://en.wikipedia.org/wiki/Yasar_Nuri_Ozturk",
+            "name": "tr.ozturk",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Suat Yıldırım",
+            "translation":"Suat Yildirim",
+            "translator_page":"",
+            "name": "tr.yildirim",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"Süleyman Ateş",
+            "translation":"Suleyman Ates",
+            "translator_page":"",
+            "name": "tr.ates",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],   
+    "urdu": [
+        {
+            "translator_name":"ابوالاعلی مودودی",
+            "translation":"Abul A'ala Maududi",
+            "translator_page":"http://en.wikipedia.org/wiki/Maududi",
+            "name":"ur.maududi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"احمد رضا خان",
+            "translation":"Ahmed Raza Khan",
+            "translator_page":"http://en.wikipedia.org/wiki/Ahmed_Rida_Khan",
+            "name": "ur.kanzuliman",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"احمد علی",
+            "translation":"Ahmed Ali",
+            "translator_page":"http://en.wikipedia.org/wiki/Ahmed_Ali",
+            "name":"ur.ahmedali",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"جالندہری",
+            "translation":"Fateh Muhammad Jalandhry",
+            "translator_page":"",
+            "name": "ur.jalandhry",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"طاہر القادری",
+            "translation":"Tahir ul Qadri",
+            "translator_page":"http://en.wikipedia.org/wiki/Muhammad_Tahir-ul-Qadri",
+            "name": "ur.qadri",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"علامہ جوادی",
+            "translation":"Syed Zeeshan Haider Jawadi",
+            "translator_page":"",
+            "name":"ur.jawadi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"محمد جوناگڑھی",
+            "translation":"Muhammad Junagarhi",
+            "translator_page":"http://ur.wikipedia.org/wiki/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D9%85%D8%AD%D9%85%D8%AF_%D8%AC%D9%88%D9%86%D8%A7%DA%AF%DA%91%DA%BE%DB%8C",
+            "name": "ur.junagarhi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        },
+        {
+            "translator_name":"محمد حسین نجفی",
+            "translation":"Muhammad Hussain Najafi",
+            "translator_page":"http://en.wikipedia.org/wiki/Muhammad_Hussain_Najafi",
+            "name": "ur.najafi",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }       
+    ],
+    "uyghur": [
+        {
+            "translator_name":"محمد صالح",
+            "translation":"Muhammad Saleh",
+            "translator_page":"",
+            "name":"ug.saleh",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ],
+    "uzbek": [
+        {
+            "translator_name":"Мухаммад Содик",
+            "translation":"Muhammad Sodik Muhammad Yusuf",
+            "translator_page":"",
+            "name":"uz.sodik",
+            "url":"https://tanzil.net/trans/?transID=%s&type=xml"
+        }
+    ]
+}
